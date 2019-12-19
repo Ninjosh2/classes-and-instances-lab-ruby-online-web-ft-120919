@@ -1,1 +1,2 @@
-dog = Dog.class
+class dog 
+end
